@@ -1,5 +1,4 @@
 # NRDD-Textual-Analysis
-NRDD-Analyses
 This repository contains a variety of code that can be used for text-mining or text analytics.
 
 ## querying NRDD projects
