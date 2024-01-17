@@ -3,7 +3,7 @@ NRDD-Analyses
 This repository contains a variety of code that can be used for text-mining or text analytics.
 
 ## querying NRDD projects
-Use this code to search for projects using specific terms as filters.
+Use this code to search for projects using specific terms as search filters.
 
 ## tf-idf
 Term frequency-index document frequency (tf-idf) is a measurement of how relevant a term is to a document or a set of documents. It is a common text mining tool used to pull out important search terms and can be used to summarize large documents.
